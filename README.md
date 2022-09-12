@@ -25,8 +25,7 @@
 - [4 Project]()
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniyaAnisko
-&layout=compact)](https://github.com/EvgeniyaAnisko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniyaAnisko&layout=compact)](https://github.com/EvgeniyaAnisko/github-readme-stats)
 
 <details>
 <summary>:trophy: Github Stats</summary>
