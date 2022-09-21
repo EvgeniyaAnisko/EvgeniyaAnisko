@@ -18,11 +18,11 @@
 </p>
 
 :star: Projects that I'm working on:
-- [1 Project]()
-- [2 Project]()
-- [3 Project]()
-- [3 Project]()
-- [4 Project]()
+- [Virtual keyboard](https://evgeniyaanisko.github.io/Virtual-Keyboard/)
+- [CSS Slider](https://evgeniyaanisko.github.io/cssMemSlider/cssMemSlider/)
+- [RS Lang](https://evgeniyaanisko.github.io/rslang/)
+- [Unsplash API](https://evgeniyaanisko.github.io/image-galery/)
+- [Memory game](https://evgeniyaanisko.github.io/memory-game/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniyaAnisko&layout=compact)](https://github.com/EvgeniyaAnisko/github-readme-stats)
