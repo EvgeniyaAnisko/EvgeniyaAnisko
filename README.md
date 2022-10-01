@@ -19,8 +19,10 @@
 
 :star: Projects that I'm working on:
 - [Virtual keyboard](https://evgeniyaanisko.github.io/Virtual-Keyboard/)
+- [Online store](https://evgeniyaanisko.github.io/online-store/)
 - [CSS Slider](https://evgeniyaanisko.github.io/cssMemSlider/cssMemSlider/)
 - [RS Lang](https://evgeniyaanisko.github.io/rslang/)
+- [Shelter](https://evgeniyaanisko.github.io/shelter/pages/main/index.html)
 - [Unsplash API](https://evgeniyaanisko.github.io/image-galery/)
 - [Memory game](https://evgeniyaanisko.github.io/memory-game/)
 
