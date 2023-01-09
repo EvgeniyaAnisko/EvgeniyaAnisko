@@ -38,5 +38,3 @@ Feel free to contact me:
 [<img src="https://img.shields.io/badge/Telegram-Anisko-28a8ea">](https://t.me/EvgeniyaAnisko)
 [<img src="https://img.shields.io/badge/Linkedin-YauheniyaAniska-informational">](https://www.linkedin.com/in/yauheniyaaniska)
 [<img src="https://img.shields.io/badge/Email-evgeniya.anisko@gmail-orange">](mailto:evgeniya.anisko@gmail.com)
-
-[//]: #[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniyaAnisko&langs_count=8)](https://github.com/EvgeniyaAnisko/github-readme-stats)
