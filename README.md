@@ -27,9 +27,6 @@
 - [Memory game](https://evgeniyaanisko.github.io/memory-game/)
 - [Shop online](https://633de28debbf620df7b3f90b--reliable-brioche-0eaab2.netlify.app/)
 
-[//]: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniyaAnisko&langs_count=8)](https://github.com/EvgeniyaAnisko/github-readme-stats)
-[//]
-
 <details>
 <summary>:trophy: Github Stats</summary>
 <img src="https://bad-apple-github-readme.vercel.app/api?username=EvgeniyaAnisko&show_icons=true&theme=transparent">
@@ -41,3 +38,5 @@ Feel free to contact me:
 [<img src="https://img.shields.io/badge/Telegram-Anisko-28a8ea">](https://t.me/EvgeniyaAnisko)
 [<img src="https://img.shields.io/badge/Linkedin-YauheniyaAniska-informational">](https://www.linkedin.com/in/yauheniyaaniska)
 [<img src="https://img.shields.io/badge/Email-evgeniya.anisko@gmail-orange">](mailto:evgeniya.anisko@gmail.com)
+
+[//]: #[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniyaAnisko&langs_count=8)](https://github.com/EvgeniyaAnisko/github-readme-stats)
