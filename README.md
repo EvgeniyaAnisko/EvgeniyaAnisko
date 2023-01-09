@@ -31,7 +31,7 @@
 
 <details>
 <summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=EvgeniyaAnisko">
+<img src="https://bad-apple-github-readme.vercel.app/api?username=EvgeniyaAnisko&show_icons=true&theme=transparent">
 <img src="https://github-profile-trophy.vercel.app/?username=EvgeniyaAnisko">
 </details>
 
