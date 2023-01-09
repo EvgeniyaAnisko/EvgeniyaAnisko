@@ -28,7 +28,7 @@
 - [Shop online](https://633de28debbf620df7b3f90b--reliable-brioche-0eaab2.netlify.app/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniyaAnisko&hide=contribs,prs)](https://github.com/EvgeniyaAnisko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniyaAnisko&count_private=true)](https://github.com/EvgeniyaAnisko/github-readme-stats)
 
 <details>
 <summary>:trophy: Github Stats</summary>
