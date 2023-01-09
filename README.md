@@ -34,7 +34,7 @@
 </details>
 
 Feel free to contact me:
-<br>
+<br><br>
 [<img src="https://img.shields.io/badge/Telegram-Anisko-28a8ea">](https://t.me/EvgeniyaAnisko)
 [<img src="https://img.shields.io/badge/Linkedin-YauheniyaAniska-informational">](https://www.linkedin.com/in/yauheniyaaniska)
 [<img src="https://img.shields.io/badge/Email-evgeniya.anisko@gmail-orange">](mailto:evgeniya.anisko@gmail.com)
